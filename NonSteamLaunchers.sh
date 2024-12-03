@@ -733,10 +733,10 @@ msi_url=https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/ins
 msi_file=${logged_in_home}/Downloads/NonSteamLaunchersInstallation/EpicGamesLauncherInstaller.msi
 
 # Set the URL to download the second file from
-exe_url=https://webinstallers.gog-statics.com/download/GOG_Galaxy_2.0.exe
+exe_url=https://content-system.gog.com/open_link/download?path=/open/galaxy/client/2.0.77.22/setup_galaxy_2.0.77.22.exe
 
 # Set the path to save the second file to
-exe_file=${logged_in_home}/Downloads/NonSteamLaunchersInstallation/GOG_Galaxy_2.0.exe
+exe_file=${logged_in_home}/Downloads/NonSteamLaunchersInstallation/setup_galaxy_2.0.77.22.exe
 
 # Set the URL to download the third file from
 ubi_url=https://ubi.li/4vxt9
